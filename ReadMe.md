@@ -1,4 +1,4 @@
-# 🚀 Low Level Design (LLD) Practice Repository
+# Low Level Design (LLD) Practice Repository
 
 > A comprehensive collection of **Low Level Design (LLD)** problems, object-oriented design implementations, and design pattern examples built to strengthen software design skills and prepare for **SDE interviews**, **machine coding rounds**, and **real-world backend development**.
 

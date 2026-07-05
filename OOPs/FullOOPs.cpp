@@ -120,7 +120,7 @@ public:
             currSpeed += speed; 
             batteryLevel -= (speed / 2); 
             if(batteryLevel < 0) batteryLevel = 0;
-            cout<< brand << " " << model << " accelerated to " << currSpeed << " km/h." << batteryLevel << " % battery left" << endl;
+            cout<< brand << " " << model << " accelerated to " << currSpeed << " km/h. " << batteryLevel << " % battery left" << endl;
         } else {
             cout<< "Start the engine first!" << endl;
         }  
